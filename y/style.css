@@ -1,0 +1,169 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #605c3c;
+    
+}
+
+.main{
+
+width: 100%;
+display: flex;
+justify-content: center;
+
+}
+.main2{
+margin-top: 200px;
+width: 50%;
+border: 2px dotted #00b09b;
+border-radius: 20px;
+
+}
+.head1{
+
+display: flex;
+justify-content: space-between;
+margin-bottom: 40px;
+padding: 10px;
+
+border-radius: 20px;
+border: none;
+border-bottom: 1px solid  #00b09b;
+}
+.tim{
+font-style: oblique;
+font-weight: bold;
+    padding: 5px;
+ border-radius: 10%;
+ /* border: none; */
+ /* background-color: cornflowerblue; */
+ color: white;
+}
+
+
+.nam{
+    font-style: oblique;
+font-weight: bold;
+    padding: 5px;
+ border-radius: 10%;
+ /* border: none; */
+ /* background-color: cornflowerblue; */
+ color: white;
+}
+
+.mi{
+padding: 10px;
+    /* border: 1px solid black; */
+margin-bottom: 20px;
+color: white;
+}
+
+.opt li {
+    list-style-type: none;
+    /* border: 1px solid black; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-style: oblique;
+    
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 20px;
+    
+}
+
+.foot{
+    display:flex ;
+    justify-content: space-around;
+margin-bottom: 20px;
+}
+.fo{
+    font-style: oblique;
+    font-weight: bold;
+        padding: 5px;
+     border-radius: 50%;
+     /* border: none; */
+     /* background-color: cornflowerblue; */
+     color: white;
+
+}
+#result{
+    display: none;
+    
+    width: 100%;
+    
+}
+#mb{
+    
+    
+    width: 90%;
+    margin: 100px auto;
+}
+.bnn{
+    width: 30%;
+    
+    background-color: transparent;
+    margin:50px auto;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+
+}
+.bnn p span {
+    background-color: transparent;
+} 
+
+#main{
+ display: flex;
+
+width: 100%;
+
+
+}
+#li{
+
+    width: 60%;
+    margin: 200px auto;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 29px;
+    
+}
+.in input{ 
+  width: 70%;
+outline: none;
+border: none;
+border-bottom: 2px solid cadetblue;
+background: transparent;
+padding: 5px ;
+font-size: 15px;
+}
+
+.bn{
+    
+    margin-top: 100px !important;
+}
+.in{
+    margin-top: 25px;
+    
+}
+.p{
+    font-size: small;
+    color: red;
+}
+.nb{
+    background-color: #CCCCB2 !important;
+}
+.in  :hover{
+    border-bottom: 2px solid sandybrown !important;
+}
+#lk{
+    font-size: small;
+    text-decoration: none;
+    font-style: italic;
+}
+#li input{
+padding-top: 10px;
+padding-bottom: 10px;
+}
